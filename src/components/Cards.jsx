@@ -15,7 +15,7 @@ const Cards = () => {
               <div className='text-center font-medium'>
                   <p className='py-2 border-b mx-8 mt-8'>500 GB Storage</p>
                   <p className='py-2 border-b mx-8'>Personal Team </p>
-                  <p className='py-2 border-b mx-8'>Send up to 2 GB</p>
+                  <p className='py-2 border-b mx-8'>Upto Unlimited Data </p>
               </div>
               <button className='bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3'>Start Trial</button>
           </div>
@@ -26,7 +26,7 @@ const Cards = () => {
               <div className='text-center font-medium'>
                   <p className='py-2 border-b mx-8 mt-8'>500 GB Storage</p>
                   <p className='py-2 border-b mx-8'> Genral Team</p>
-                  <p className='py-2 border-b mx-8'>Send up to 2 GB</p>
+                  <p className='py-2 border-b mx-8'>Upto Limited Data</p>
               </div>
               <button className='bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3'>Start Trial</button>
           </div>
@@ -37,7 +37,7 @@ const Cards = () => {
               <div className='text-center font-medium'>
                   <p className='py-2 border-b mx-8 mt-8'>500 GB Storage</p>
                   <p className='py-2 border-b mx-8'>Special Team</p>
-                  <p className='py-2 border-b mx-8'>Send up to 2 GB</p>
+                  <p className='py-2 border-b mx-8'>Upto liftime Unlimited</p>
               </div>
               <button className='bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3'>Start Trial</button>
           </div>

@@ -10,7 +10,6 @@ const Data1 = () => {
           <p className='md:text-5xl sm:text-4xl text-xl font-bold py-4'>
           Enhancing business intelligence and growth IQ through advanced data analytics.          </p>
         </div>
-        <p className='md:text-2xl text-xl font-bold text-gray-500'>Boosting business growth and performance with Data1-driven insights and optimization.</p>
         <button className='bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black'>Get Started</button>
       </div>
     </div>
